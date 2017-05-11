@@ -8,7 +8,7 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 The codes are written in python and MATLAB.
 
 ### Dataset
-The nighttime image segmentation dataset can be downloaded from [this](www.google.com) link. A few sample images can be found in the folder `./images`.
+The nighttime image segmentation dataset can be downloaded from [this](http://vintage.winklerbros.net/index.html) link. A few sample images can be found in the folder `./images`.
 
 ### Core functionality
 * `color16Norm.m` Generates the 16 color channels in the form of a MATLAB struct. All values are normalized.
