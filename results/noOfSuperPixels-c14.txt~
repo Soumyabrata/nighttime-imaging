@@ -1,0 +1,6 @@
+No_of_Pixels 	 Observation 	 Precision 	 Recall 	 F-Score 	 Error 
+No_of_Pixels 	 Observation 	 Precision 	 Recall 	 F-Score 	 Error 
+10 	 1 	 0.925580 	 0.628370 	 0.748553 	 11.173200 
+10 	 2 	 0.958353 	 0.610541 	 0.745894 	 13.972800 
+20 	 1 	 0.986257 	 0.558563 	 0.713205 	 11.889600 
+20 	 2 	 0.941419 	 0.608386 	 0.739120 	 14.425600 
