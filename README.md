@@ -8,7 +8,7 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 The codes are written in python and MATLAB.
 
 ### Dataset
-The nighttime image segmentation dataset can be downloaded from [this](http://vintage.winklerbros.net/index.html) link. A few sample images can be found in the folder `./images`.
+The nighttime image segmentation dataset can be downloaded from [this](http://vintage.winklerbros.net/swinseg.html) link. A few sample images can be found in the folder `./images`.
 
 ### Core functionality
 * `color16Norm.m` Generates the 16 color channels in the form of a MATLAB struct. All values are normalized.
@@ -26,7 +26,7 @@ The nighttime image segmentation dataset can be downloaded from [this](http://vi
 * `undistort_WAHRSIS_imgs.py` Undistorts our sky camera images; needed during the creation of the dataset.
 
 ### Superpixel function
-The various functions required in SLIC superpixel segmentation can be found in the folder `./SegmentationToolbox`.
+The various functions required in SLIC superpixel segmentation can be found in the folder `./SegmentationToolbox`. The core functions of SLIC are re-distributed under [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) terms.
 
 ### Reproducibility 
 In addition to all the related codes, we have also shared the generated results. These files are contained in the folder `./results`.
